@@ -2,7 +2,7 @@
 This is a simple GUI Calculator implemented using JavaFx.
 
 ### DESCRIPTION
-The repo contains 2 java files: <br /><br />
+The repo contains 2 java files (2 separate contents): <br /><br />
 **1. Calculator.java**<br />
 This is a simple GUI Calculator implemented using JavaFx.<br />
 It it my first GUI application. I did it as an exercise for my CS course the first semester at university.<br /><br />
